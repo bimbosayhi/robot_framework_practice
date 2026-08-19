@@ -1,0 +1,25 @@
+# Robot Framework output
+results/
+log.html
+output.xml
+report.html
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
